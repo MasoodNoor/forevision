@@ -20,10 +20,10 @@
 		window._wpemojiSettings = {
 			"baseUrl": "https://s.w.org/images/core/emoji/12.0.0-1/72x72/",
 			"ext": ".png",
-			"svgUrl": "https://s.w.org/images/core/emoji/12.0.0-1/svg/",
+			"svgUrl": "https://s.w.org/images/core/emoj/12.0.0-1/svg/",
 			"svgExt": ".svg",
 			"source": {
-				"concatemoji": "wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"
+				"concatemoji": "wp-includes/js/wp-emoji-release.min.js?ver=5.4.2"
 			}
 		};
 		/*! This file is auto-generated */
@@ -1092,7 +1092,7 @@
 	<link rel='stylesheet' id='elementor-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13' media='all' />
 	<link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' media='all' />
 	<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global.css?ver=1593203728' media='all' />
-	<link rel='stylesheet' id='elementor-post-166-css' href='wp-content/uploads/elementor/css/post-166.css?ver=1593378757' media='all' />
+	<link rel='stylesheet' id='elementor-post-166-css' href='wp-content/uploads/elementor/css/post-166.css?ver=1593354984' media='all' />
 	<link rel='stylesheet' id='google-fonts-1-css'
 		href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2'
 		media='all' />
@@ -1116,7 +1116,7 @@ flexibility(document.documentElement);
 		var firebaseOptions = {
 			"apiKey": "AIzaSyB_hBhCuhTA8nITg7QzxQHeMiui4Kj-pPs",
 			"authDomain": "fore-vision.firebaseapp.com",
-			"databaseURL": "https://fore-vision.firebaseio.com",
+			"databaseURL": "https:fore-vision.firebaseio.com",
 			"projectId": "fore-vision"
 		};
 	</script>
@@ -1127,8 +1127,8 @@ flexibility(document.documentElement);
 	<meta name="generator" content="WordPress 5.4.2" />
 	<link rel="canonical" href="/" />
 	<link rel='shortlink' href='/' />
-	<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=%2F" />
-	<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=%2F&#038;format=xml" />
+	<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=%2F" />
+	<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=%2F&#038;format=xml" />
 	<link rel="icon" href="wp-content/uploads/2020/06/cropped-forevision-1-32x32.jpg" sizes="32x32" />
 	<link rel="icon" href="wp-content/uploads/2020/06/cropped-forevision-1-192x192.jpg" sizes="192x192" />
 	<link rel="apple-touch-icon" href="wp-content/uploads/2020/06/cropped-forevision-1-180x180.jpg" />
@@ -1361,8 +1361,7 @@ flexibility(document.documentElement);
 					<div class="elementor-inner">
 						<div class="elementor-section-wrap">
 							<header class="elementor-element elementor-element-53248bac elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section"
-								data-id="53248bac" data-element_type="section" id="main_slider"
-								data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:152,&quot;url&quot;:&quot;\wp-content\/uploads\/2020\/06\/1_slider.jpg&quot;}],&quot;background_slideshow_transition_duration&quot;:100,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;out&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;}">
+								data-id="53248bac" data-element_type="section" id="main_slider" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_end&quot;:19,&quot;background_play_on_mobile&quot;:&quot;yes&quot;}">
 								<div class="elementor-background-overlay"></div>
 								<div class="elementor-container elementor-column-gap-default">
 									<div class="elementor-row">
@@ -1581,7 +1580,7 @@ flexibility(document.documentElement);
 							<section
 								class="elementor-element elementor-element-8df5838 elementor-section-stretched elementor-section-full_width elementor-section-height-full elementor-reverse-mobile elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section"
 								data-id="8df5838" data-element_type="section"
-								data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:213,&quot;url&quot;:&quot;wp-content/uploads/2020/06/ser_3.jpg&quot;},{&quot;id&quot;:212,&quot;url&quot;:&quot;wp-content/uploads/2020/06/ser_2.jpg&quot;},{&quot;id&quot;:211,&quot;url&quot;:&quot;wp-content/uploads/2020/06/ser_1.jpg&quot;},{&quot;id&quot;:155,&quot;url&quot;:&quot;wp-content/uploads/2020/06/4_slider.jpg&quot;},{&quot;id&quot;:154,&quot;url&quot;:&quot;wp-content/uploads/2020/06/3_slider.jpg&quot;},{&quot;id&quot;:152,&quot;url&quot;:&quot;wp-content/uploads/2020/06/1_slider.jpg&quot;},{&quot;id&quot;:153,&quot;url&quot;:&quot;wp-content/uploads/2020/06/2_slider.jpg&quot;}],&quot;background_slideshow_slide_duration&quot;:3000,&quot;background_slideshow_transition_duration&quot;:200,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+								data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:213,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/ser_3.jpg&quot;},{&quot;id&quot;:212,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/ser_2.jpg&quot;},{&quot;id&quot;:211,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/ser_1.jpg&quot;},{&quot;id&quot;:155,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/4_slider.jpg&quot;},{&quot;id&quot;:154,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/3_slider.jpg&quot;},{&quot;id&quot;:152,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/1_slider.jpg&quot;},{&quot;id&quot;:153,&quot;url&quot;:&quot;wp-content\/uploads\/2020\/06\/2_slider.jpg&quot;}],&quot;background_slideshow_slide_duration&quot;:3000,&quot;background_slideshow_transition_duration&quot;:200,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
 								<div class="elementor-container elementor-column-gap-default">
 									<div class="elementor-row">
 										<div class="elementor-element elementor-element-ca3230d elementor-column elementor-col-100 elementor-top-column" data-id="ca3230d" data-element_type="column">
@@ -1685,16 +1684,14 @@ flexibility(document.documentElement);
 																							<span class="elementor-icon-list-text">+92-346-2350529</span>
 																						</li>
 																						<li class="elementor-icon-list-item">
-																							<a href="http://theforevision@gmail.com"> <span class="elementor-icon-list-icon">
-																									<i aria-hidden="true" class="far fa-envelope-open"></i> </span>
-																								<span class="elementor-icon-list-text">theforevision@gmail.com</span>
-																							</a>
+																							<span class="elementor-icon-list-icon">
+																								<i aria-hidden="true" class="far fa-envelope-open"></i> </span>
+																							<span class="elementor-icon-list-text">theforevision@gmail.com</span>
 																						</li>
 																						<li class="elementor-icon-list-item">
-																							<a href="http://muhammad.sajidd@gmail.com"> <span class="elementor-icon-list-icon">
-																									<i aria-hidden="true" class="far fa-envelope-open"></i> </span>
-																								<span class="elementor-icon-list-text">muhammad.sajidd@gmail.com</span>
-																							</a>
+																							<span class="elementor-icon-list-icon">
+																								<i aria-hidden="true" class="far fa-envelope-open"></i> </span>
+																							<span class="elementor-icon-list-text">muhammad.sajidd@gmail.com</span>
 																						</li>
 																					</ul>
 																				</div>
@@ -1716,16 +1713,14 @@ flexibility(document.documentElement);
 																				<div class="elementor-widget-container">
 																					<ul class="elementor-icon-list-items">
 																						<li class="elementor-icon-list-item">
-																							<a href="http://fb.com/forevision"> <span class="elementor-icon-list-icon">
-																									<i aria-hidden="true" class="fab fa-facebook"></i> </span>
-																								<span class="elementor-icon-list-text">fb.com/forevision</span>
-																							</a>
+																							<span class="elementor-icon-list-icon">
+																								<i aria-hidden="true" class="fab fa-facebook"></i> </span>
+																							<span class="elementor-icon-list-text">fb.com//forevision</span>
 																						</li>
 																						<li class="elementor-icon-list-item">
-																							<a href="http://instagram.com/theforevision"> <span class="elementor-icon-list-icon">
-																									<i aria-hidden="true" class="fab fa-instagram"></i> </span>
-																								<span class="elementor-icon-list-text">theforevision</span>
-																							</a>
+																							<span class="elementor-icon-list-icon">
+																								<i aria-hidden="true" class="fab fa-instagram"></i> </span>
+																							<span class="elementor-icon-list-text">theforevision</span>
 																						</li>
 																					</ul>
 																				</div>
@@ -1818,7 +1813,7 @@ flexibility(document.documentElement);
 			},
 			"version": "2.9.13",
 			"urls": {
-				"assets": "\wp-content\/plugins\/elementor\/assets\/"
+				"assets": "wp-content\/plugins\/elementor\/assets\/"
 			},
 			"settings": {
 				"page": [],
