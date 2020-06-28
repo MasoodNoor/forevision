@@ -1,0 +1,3767 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Million Shades\n"
+"POT-Creation-Date: 2019-08-06 15:30+0600\n"
+"PO-Revision-Date: 2019-06-12 23:13+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;__ngettext_noop;"
+"translate_nooped\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:47
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr ""
+
+#: 404.php:50 template-parts/content-none.php:30
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:58 index.php:155 search.php:56
+msgid "Posts navigation"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:27
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:63 inc/customizer/core.php:1270
+msgid "Proudly Powered by WordPress"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: footer.php:65 inc/customizer/core.php:1275
+msgid "Million Shades"
+msgstr ""
+
+#: footer.php:67
+msgid "http://themenextlevel.com"
+msgstr ""
+
+#: footer.php:85
+msgid "Go to Top"
+msgstr ""
+
+#: framework/framework.php:200
+msgid "Sidebar"
+msgstr ""
+
+#: framework/framework.php:202
+msgid "Add widgets here."
+msgstr ""
+
+#: framework/framework.php:210
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: framework/framework.php:212
+msgid "Add WooCommerce Widgets Only"
+msgstr ""
+
+#: framework/framework.php:222
+msgid "Footer Widget "
+msgstr ""
+
+#: framework/framework.php:244
+msgid "Primary"
+msgstr ""
+
+#: framework/framework.php:246
+msgid "Footer"
+msgstr ""
+
+#: framework/framework.php:268
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: framework/framework.php:277 inc/nl-admin.php:197
+msgid "Million Shades Toolkit"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:386
+#: framework/plugins/class-tgm-plugin-activation.php:827
+#: framework/plugins/class-tgm-plugin-activation.php:2533
+#: framework/plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:387
+#: framework/plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:388
+#: framework/plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:934
+#: framework/plugins/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1121
+#: framework/plugins/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/plugins/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/plugins/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/plugins/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3509
+#: framework/plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3509
+#: framework/plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/controls.php:86
+msgid "Default Font"
+msgstr ""
+
+#: inc/customizer/controls.php:93
+msgid "Standard Font Family"
+msgstr ""
+
+#: inc/customizer/controls.php:111
+msgid "Google Font Family"
+msgstr ""
+
+#: inc/customizer/controls.php:169 inc/customizer/core.php:3679
+#: inc/widgets/latest-post-list.php:57
+msgid "All"
+msgstr ""
+
+#: inc/customizer/core.php:16
+msgid "General Panel"
+msgstr ""
+
+#: inc/customizer/core.php:17 inc/customizer/core.php:55
+msgid "Accent Color & Body Font"
+msgstr ""
+
+#: inc/customizer/core.php:18
+msgid "Box Layout & Background Panel"
+msgstr ""
+
+#: inc/customizer/core.php:19
+msgid "Site Width & Layout Panel"
+msgstr ""
+
+#: inc/customizer/core.php:20
+msgid "Topbar Panel"
+msgstr ""
+
+#: inc/customizer/core.php:21
+msgid "Site Header Panel"
+msgstr ""
+
+#: inc/customizer/core.php:22
+msgid "Navigation Panel"
+msgstr ""
+
+#: inc/customizer/core.php:23
+msgid "Featured Post Items Panel"
+msgstr ""
+
+#: inc/customizer/core.php:24
+msgid "List Post Panel"
+msgstr ""
+
+#: inc/customizer/core.php:25
+msgid "Single Post Panel"
+msgstr ""
+
+#: inc/customizer/core.php:26
+msgid "Page Panel"
+msgstr ""
+
+#: inc/customizer/core.php:27
+msgid "Sidebar & Sidebar Layout Panel"
+msgstr ""
+
+#: inc/customizer/core.php:28
+msgid "Headings Panel"
+msgstr ""
+
+#: inc/customizer/core.php:29
+msgid "Footer Panel"
+msgstr ""
+
+#: inc/customizer/core.php:46
+msgid "General"
+msgstr ""
+
+#: inc/customizer/core.php:48
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/customizer/core.php:50
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/core.php:51
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/core.php:52
+msgid "Forms"
+msgstr ""
+
+#: inc/customizer/core.php:58 inc/customizer/core.php:3392
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/core.php:59
+msgid "Site Background"
+msgstr ""
+
+#: inc/customizer/core.php:63
+msgid "Desktop Width"
+msgstr ""
+
+#: inc/customizer/core.php:64
+msgid "Laptop Width"
+msgstr ""
+
+#: inc/customizer/core.php:65
+msgid "Large Tablet Width"
+msgstr ""
+
+#: inc/customizer/core.php:66
+msgid "Tablet Width"
+msgstr ""
+
+#: inc/customizer/core.php:67
+msgid "Phone Width"
+msgstr ""
+
+#: inc/customizer/core.php:70 inc/customizer/core.php:3682
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer/core.php:71
+msgid "Topbar Text"
+msgstr ""
+
+#: inc/customizer/core.php:72
+msgid "Topbar Social"
+msgstr ""
+
+#: inc/customizer/core.php:75
+msgid "Sticky & Full Page Header"
+msgstr ""
+
+#: inc/customizer/core.php:76
+msgid "Site Header & Site Icon"
+msgstr ""
+
+#: inc/customizer/core.php:77
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/core.php:78
+msgid "Site Description"
+msgstr ""
+
+#: inc/customizer/core.php:81
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/core.php:82
+msgid "Main Menu Top Label"
+msgstr ""
+
+#: inc/customizer/core.php:83
+msgid "Main Menu Sub Label"
+msgstr ""
+
+#: inc/customizer/core.php:86
+msgid "Heading Fonts"
+msgstr ""
+
+#: inc/customizer/core.php:89
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/core.php:90
+msgid "Sidebar Widget & Layout"
+msgstr ""
+
+#: inc/customizer/core.php:93
+msgid "Site Footer"
+msgstr ""
+
+#: inc/customizer/core.php:94
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/customizer/core.php:95
+msgid "Footer Info"
+msgstr ""
+
+#: inc/customizer/core.php:98 inc/meta-boxes.php:46
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/core.php:99
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/core.php:100
+msgid "Page Content"
+msgstr ""
+
+#: inc/customizer/core.php:103
+msgid "Single Post General"
+msgstr ""
+
+#: inc/customizer/core.php:104
+msgid "Single Post Header"
+msgstr ""
+
+#: inc/customizer/core.php:105
+msgid "Single Post Meta"
+msgstr ""
+
+#: inc/customizer/core.php:106
+msgid "Single Post Content"
+msgstr ""
+
+#: inc/customizer/core.php:109
+msgid "List Post General"
+msgstr ""
+
+#: inc/customizer/core.php:110
+msgid "List Post Title"
+msgstr ""
+
+#: inc/customizer/core.php:111
+msgid "List Post Meta"
+msgstr ""
+
+#: inc/customizer/core.php:112
+msgid "List Post Content"
+msgstr ""
+
+#: inc/customizer/core.php:115
+msgid "Featured Items"
+msgstr ""
+
+#: inc/customizer/core.php:116
+msgid "Feature Slides"
+msgstr ""
+
+#: inc/customizer/core.php:547
+msgid "Button Size"
+msgstr ""
+
+#: inc/customizer/core.php:764
+msgid "H1 Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:770
+msgid "H2 Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:776
+msgid "H3 Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:782
+msgid "H4 Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:788
+msgid "H5 Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:794
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:800 inc/customizer/core.php:806
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:812
+msgid "Label Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:818
+msgid "Input Font Size"
+msgstr ""
+
+#: inc/customizer/core.php:843
+msgid "Site Header Padding Top"
+msgstr ""
+
+#: inc/customizer/core.php:849
+msgid "Site Header Padding Bottom"
+msgstr ""
+
+#: inc/customizer/core.php:856
+msgid "Main Navigation Margin Top"
+msgstr ""
+
+#: inc/customizer/core.php:862
+msgid "Main Navigation Margin Bottom"
+msgstr ""
+
+#: inc/customizer/core.php:868
+msgid "Margin Top"
+msgstr ""
+
+#: inc/customizer/core.php:874
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/customizer/core.php:880
+msgid "Margin Left"
+msgstr ""
+
+#: inc/customizer/core.php:886
+msgid "Margin Right"
+msgstr ""
+
+#: inc/customizer/core.php:893
+msgid "Input Padding Top"
+msgstr ""
+
+#: inc/customizer/core.php:901
+msgid "Input Padding Bottom"
+msgstr ""
+
+#: inc/customizer/core.php:908
+msgid "Input Margin Top"
+msgstr ""
+
+#: inc/customizer/core.php:916
+msgid "Input Margin Bottom"
+msgstr ""
+
+#: inc/customizer/core.php:923 inc/customizer/core.php:939
+msgid "Padding Top"
+msgstr ""
+
+#: inc/customizer/core.php:931 inc/customizer/core.php:947
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/customizer/core.php:955
+msgid "Padding Left"
+msgstr ""
+
+#: inc/customizer/core.php:963
+msgid "Padding Right"
+msgstr ""
+
+#: inc/customizer/core.php:981
+msgid "Category Slug"
+msgstr ""
+
+#: inc/customizer/core.php:987
+msgid "Exclude Category"
+msgstr ""
+
+#: inc/customizer/core.php:1004
+msgid "Contact Input #1:"
+msgstr ""
+
+#: inc/customizer/core.php:1010
+msgid "Contact Input #2:"
+msgstr ""
+
+#: inc/customizer/core.php:1016
+msgid "Contact Input #3:"
+msgstr ""
+
+#: inc/customizer/core.php:1022
+msgid "Contact Input #4:"
+msgstr ""
+
+#: inc/customizer/core.php:1028
+msgid "Contact Input #5:"
+msgstr ""
+
+#: inc/customizer/core.php:1044
+msgid "Contact Icon #1:"
+msgstr ""
+
+#: inc/customizer/core.php:1050
+msgid "Contact Icon #2:"
+msgstr ""
+
+#: inc/customizer/core.php:1056
+msgid "Contact Icon #3:"
+msgstr ""
+
+#: inc/customizer/core.php:1062
+msgid "Contact Icon #4:"
+msgstr ""
+
+#: inc/customizer/core.php:1068
+msgid "Contact Icon #5:"
+msgstr ""
+
+#: inc/customizer/core.php:1084
+msgid "Social Url #1:"
+msgstr ""
+
+#: inc/customizer/core.php:1090
+msgid "Social Url #2:"
+msgstr ""
+
+#: inc/customizer/core.php:1096
+msgid "Social Url #3:"
+msgstr ""
+
+#: inc/customizer/core.php:1102
+msgid "Social Url #4:"
+msgstr ""
+
+#: inc/customizer/core.php:1108
+msgid "Social Url #5:"
+msgstr ""
+
+#: inc/customizer/core.php:1114
+msgid "Social Url #6:"
+msgstr ""
+
+#: inc/customizer/core.php:1120
+msgid "Social Url #7:"
+msgstr ""
+
+#: inc/customizer/core.php:1126
+msgid "Social Url #8:"
+msgstr ""
+
+#: inc/customizer/core.php:1147
+msgid "Social Icon #1:"
+msgstr ""
+
+#: inc/customizer/core.php:1153
+msgid "Social Icon #2:"
+msgstr ""
+
+#: inc/customizer/core.php:1159
+msgid "Social Icon #3:"
+msgstr ""
+
+#: inc/customizer/core.php:1165
+msgid "Social Icon #4:"
+msgstr ""
+
+#: inc/customizer/core.php:1171
+msgid "Social Icon #5:"
+msgstr ""
+
+#: inc/customizer/core.php:1177
+msgid "Social Icon #6:"
+msgstr ""
+
+#: inc/customizer/core.php:1182
+msgid "Social Icon #7:"
+msgstr ""
+
+#: inc/customizer/core.php:1187
+msgid "Social Icon #8:"
+msgstr ""
+
+#: inc/customizer/core.php:1202
+msgid "www.themenextlevel.com"
+msgstr ""
+
+#: inc/customizer/core.php:1203
+msgid "Site Info Link Url"
+msgstr ""
+
+#: inc/customizer/core.php:1209
+msgid "Overlay Button Url"
+msgstr ""
+
+#: inc/customizer/core.php:1215 inc/customizer/core.php:1221
+#: inc/customizer/core.php:1227
+msgid "Featured Item Url"
+msgstr ""
+
+#: inc/customizer/core.php:1245 inc/customizer/core.php:1252
+#: inc/customizer/core.php:1258
+msgid "Featured Title"
+msgstr ""
+
+#: inc/customizer/core.php:1265
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/core.php:1271
+msgid "Site Info Text"
+msgstr ""
+
+#: inc/customizer/core.php:1276
+msgid "Site Info Link Text"
+msgstr ""
+
+#: inc/customizer/core.php:1283
+msgid "Overlay Title"
+msgstr ""
+
+#: inc/customizer/core.php:1290
+msgid "Overlay Sub-Title"
+msgstr ""
+
+#: inc/customizer/core.php:1296
+msgid "Overlay Button Text"
+msgstr ""
+
+#: inc/customizer/core.php:1316
+msgid "Exerpt Length"
+msgstr ""
+
+#: inc/customizer/core.php:1539 inc/customizer/core.php:1545
+#: inc/customizer/core.php:1551 inc/customizer/core.php:1557
+#: inc/customizer/core.php:1569 inc/customizer/core.php:1594
+#: inc/customizer/core.php:1602 inc/customizer/core.php:1609
+#: inc/customizer/core.php:1665 inc/customizer/core.php:1671
+#: inc/customizer/core.php:1677 inc/customizer/core.php:1684
+#: inc/customizer/core.php:1690 inc/customizer/core.php:3587
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/core.php:1563 inc/customizer/core.php:1575
+msgid "Current Page Color"
+msgstr ""
+
+#: inc/customizer/core.php:1582 inc/customizer/core.php:1615
+#: inc/customizer/core.php:1627 inc/customizer/core.php:1659
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/core.php:1588
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/core.php:1638 inc/customizer/core.php:1649
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/core.php:1697
+msgid "Sticky Post Color"
+msgstr ""
+
+#: inc/customizer/core.php:1709 inc/customizer/core.php:1715
+#: inc/customizer/core.php:1721 inc/customizer/core.php:1727
+#: inc/customizer/core.php:1739 inc/customizer/core.php:1746
+#: inc/customizer/core.php:1752 inc/customizer/core.php:1766
+#: inc/customizer/core.php:1773 inc/customizer/core.php:1780
+#: inc/customizer/core.php:1787 inc/customizer/core.php:1798
+#: inc/customizer/core.php:1804 inc/customizer/core.php:1811
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/core.php:1733
+msgid "Overlay Background Color"
+msgstr ""
+
+#: inc/customizer/core.php:1759
+msgid "Input Background Color"
+msgstr ""
+
+#: inc/customizer/core.php:1818
+msgid "Sticky Post Background Color"
+msgstr ""
+
+#: inc/customizer/core.php:1829 inc/customizer/core.php:1835
+#: inc/customizer/core.php:1842 inc/customizer/core.php:1851
+#: inc/customizer/core.php:1858
+msgid "Hover Color"
+msgstr ""
+
+#: inc/customizer/core.php:1867 inc/customizer/core.php:1873
+#: inc/customizer/core.php:1882 inc/customizer/core.php:1890
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/customizer/core.php:1919
+msgid "Border Top Color"
+msgstr ""
+
+#: inc/customizer/core.php:1939
+msgid "Border Top Width"
+msgstr ""
+
+#: inc/customizer/core.php:1960
+msgid "Border Top Style"
+msgstr ""
+
+#: inc/customizer/core.php:1977 inc/customizer/core.php:1993
+msgid "topbar-bottom-border-color"
+msgstr ""
+
+#: inc/customizer/core.php:2009
+msgid "Topbar Bottom Border Color"
+msgstr ""
+
+#: inc/customizer/core.php:2026
+msgid "Post Meta Border Color"
+msgstr ""
+
+#: inc/customizer/core.php:2032
+msgid "Single Meta Border Color"
+msgstr ""
+
+#: inc/customizer/core.php:2047
+msgid "post-meta-border-width"
+msgstr ""
+
+#: inc/customizer/core.php:2053
+msgid "single-meta-border-width"
+msgstr ""
+
+#: inc/customizer/core.php:2067
+msgid "post-meta-border-style"
+msgstr ""
+
+#: inc/customizer/core.php:2073
+msgid "single-meta-border-style"
+msgstr ""
+
+#: inc/customizer/core.php:2092
+msgid "button-border-color"
+msgstr ""
+
+#: inc/customizer/core.php:2099
+msgid "Input Border Color"
+msgstr ""
+
+#: inc/customizer/core.php:2117
+msgid "button-border-width"
+msgstr ""
+
+#: inc/customizer/core.php:2124
+msgid "form-border-width"
+msgstr ""
+
+#: inc/customizer/core.php:2142
+msgid "button-border-style"
+msgstr ""
+
+#: inc/customizer/core.php:2149
+msgid "form-border-style"
+msgstr ""
+
+#: inc/customizer/core.php:2165
+msgid "button-border-radius"
+msgstr ""
+
+#: inc/customizer/core.php:2172
+msgid "form-border-radius"
+msgstr ""
+
+#: inc/customizer/core.php:2179
+msgid "topbar-social-border-radius"
+msgstr ""
+
+#: inc/customizer/core.php:2430
+msgid "Site Title Font"
+msgstr ""
+
+#: inc/customizer/core.php:2433
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/core.php:2437
+msgid "Topbar Color"
+msgstr ""
+
+#: inc/customizer/core.php:2441
+msgid "Topbar Contact Color"
+msgstr ""
+
+#: inc/customizer/core.php:2445
+msgid "Topbar Social Color"
+msgstr ""
+
+#: inc/customizer/core.php:2449
+msgid "Form Color"
+msgstr ""
+
+#: inc/customizer/core.php:2453
+msgid "Buttons Color"
+msgstr ""
+
+#: inc/customizer/core.php:2457
+msgid "Scroll-up Color"
+msgstr ""
+
+#: inc/customizer/core.php:2461
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/customizer/core.php:2465
+msgid "Site Header Color"
+msgstr ""
+
+#: inc/customizer/core.php:2469
+msgid "Site Description Color"
+msgstr ""
+
+#: inc/customizer/core.php:2473
+msgid "Navigation Top Level Font"
+msgstr ""
+
+#: inc/customizer/core.php:2477
+msgid "Navigation Sub Level Font"
+msgstr ""
+
+#: inc/customizer/core.php:2481
+msgid "Navigation Top Level Color"
+msgstr ""
+
+#: inc/customizer/core.php:2485
+msgid "Navigation Margins"
+msgstr ""
+
+#: inc/customizer/core.php:2489
+msgid "Navigation Sub Level Color"
+msgstr ""
+
+#: inc/customizer/core.php:2493
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/customizer/core.php:2496
+msgid "Page Header Color"
+msgstr ""
+
+#: inc/customizer/core.php:2500
+msgid "Topbar Border"
+msgstr ""
+
+#: inc/customizer/core.php:2503
+msgid "List Post Meta Border"
+msgstr ""
+
+#: inc/customizer/core.php:2506
+msgid "Single Post Meta Border"
+msgstr ""
+
+#: inc/customizer/core.php:2510
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/customizer/core.php:2514
+msgid "Post Meta Color"
+msgstr ""
+
+#: inc/customizer/core.php:2518
+msgid "Single Post Navigation Color"
+msgstr ""
+
+#: inc/customizer/core.php:2522
+msgid "Single Post Title Color"
+msgstr ""
+
+#: inc/customizer/core.php:2526
+msgid "Single Post Meta Color"
+msgstr ""
+
+#: inc/customizer/core.php:2530
+msgid "Footer Widget Color"
+msgstr ""
+
+#: inc/customizer/core.php:2534
+msgid "Sidebar Widget Color"
+msgstr ""
+
+#: inc/customizer/core.php:2538
+msgid "Site Info Color"
+msgstr ""
+
+#: inc/customizer/core.php:2542
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/core.php:2546
+msgid "Full Page Header Media"
+msgstr ""
+
+#: inc/customizer/core.php:2550
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/core.php:2555
+msgid "Scroll-up Settings"
+msgstr ""
+
+#: inc/customizer/core.php:2559
+msgid "Site Background Margins"
+msgstr ""
+
+#: inc/customizer/core.php:2563
+msgid "Site Header Paddings"
+msgstr ""
+
+#: inc/customizer/core.php:2567
+msgid "Button Border"
+msgstr ""
+
+#: inc/customizer/core.php:2571
+msgid "Social Border"
+msgstr ""
+
+#: inc/customizer/core.php:2574
+msgid "Social Input"
+msgstr ""
+
+#: inc/customizer/core.php:2577
+msgid "Contact Input"
+msgstr ""
+
+#: inc/customizer/core.php:2582
+msgid "Site Credit Input"
+msgstr ""
+
+#: inc/customizer/core.php:2585
+msgid "Site Info Background"
+msgstr ""
+
+#: inc/customizer/core.php:2588
+msgid "Site Info Padding"
+msgstr ""
+
+#: inc/customizer/core.php:2592 inc/customizer/core.php:2596
+msgid "Show/hide Elements"
+msgstr ""
+
+#: inc/customizer/core.php:2599
+msgid "Blog Post Query"
+msgstr ""
+
+#: inc/customizer/core.php:2602
+msgid "Form Fonts"
+msgstr ""
+
+#: inc/customizer/core.php:2605
+msgid "Form Input Paddings"
+msgstr ""
+
+#: inc/customizer/core.php:2608
+msgid "Form Input Margins"
+msgstr ""
+
+#: inc/customizer/core.php:2612
+msgid "Button Paddings"
+msgstr ""
+
+#: inc/customizer/core.php:2616
+msgid "Global Font Settings"
+msgstr ""
+
+#: inc/customizer/core.php:2619
+msgid "First Feature Item Detail"
+msgstr ""
+
+#: inc/customizer/core.php:2622
+msgid "Second Feature Item Detail"
+msgstr ""
+
+#: inc/customizer/core.php:2625
+msgid "Third Feature Item Detail"
+msgstr ""
+
+#: inc/customizer/core.php:2629
+msgid "Header Medaia Overlay & Text"
+msgstr ""
+
+#: inc/customizer/core.php:2633
+msgid "Header Media Height Width"
+msgstr ""
+
+#: inc/customizer/core.php:2637
+msgid "Footer Widget Item Border"
+msgstr ""
+
+#: inc/customizer/core.php:2641
+msgid "Page Selection for Slides"
+msgstr ""
+
+#: inc/customizer/core.php:2644
+msgid "Featured Slider Input Detail"
+msgstr ""
+
+#: inc/customizer/core.php:2716
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/core.php:2780
+msgid "Hide Site Description"
+msgstr ""
+
+#: inc/customizer/core.php:2786
+msgid "Hide Topbar"
+msgstr ""
+
+#: inc/customizer/core.php:2792
+msgid "Hide Single Title"
+msgstr ""
+
+#: inc/customizer/core.php:2798
+msgid "Hide Post Title"
+msgstr ""
+
+#: inc/customizer/core.php:2804 inc/customizer/core.php:2898
+msgid "Hide Post Meta"
+msgstr ""
+
+#: inc/customizer/core.php:2810
+msgid "Hide Single Meta"
+msgstr ""
+
+#: inc/customizer/core.php:2816
+msgid "Hide Category on Top"
+msgstr ""
+
+#: inc/customizer/core.php:2822
+msgid "Hide Single Entry Footer"
+msgstr ""
+
+#: inc/customizer/core.php:2828 inc/meta-boxes.php:140
+msgid "Hide Page Header"
+msgstr ""
+
+#: inc/customizer/core.php:2834
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/customizer/core.php:2840
+msgid "Hide Blog Page Title"
+msgstr ""
+
+#: inc/customizer/core.php:2846
+msgid "Hide Archive Page Title"
+msgstr ""
+
+#: inc/customizer/core.php:2852
+msgid "Hide Search Page Title"
+msgstr ""
+
+#: inc/customizer/core.php:2859
+msgid "Hide Featured Images"
+msgstr ""
+
+#: inc/customizer/core.php:2865
+msgid "Hide Featured Images Single"
+msgstr ""
+
+#: inc/customizer/core.php:2871
+msgid "Hide Single Post Title"
+msgstr ""
+
+#: inc/customizer/core.php:2877
+msgid "Hide Single Post Meta"
+msgstr ""
+
+#: inc/customizer/core.php:2882
+msgid "Hide Single Post Content"
+msgstr ""
+
+#: inc/customizer/core.php:2887
+msgid "Hide Single Post Navigation"
+msgstr ""
+
+#: inc/customizer/core.php:2892
+msgid "Hide Single Post Comments"
+msgstr ""
+
+#: inc/customizer/core.php:2903
+msgid "Hide Post Content"
+msgstr ""
+
+#: inc/customizer/core.php:2910
+msgid "Hide Scrollup"
+msgstr ""
+
+#: inc/customizer/core.php:2918
+msgid "Hide Paging"
+msgstr ""
+
+#: inc/customizer/core.php:2924
+msgid "Hide Post Publication Date"
+msgstr ""
+
+#: inc/customizer/core.php:2929
+msgid "Hide Post Author"
+msgstr ""
+
+#: inc/customizer/core.php:2934
+msgid "Hide Leave a Comment"
+msgstr ""
+
+#: inc/customizer/core.php:2940
+msgid "Hide Publication Date"
+msgstr ""
+
+#: inc/customizer/core.php:2945
+msgid "Hide Author"
+msgstr ""
+
+#: inc/customizer/core.php:2950
+msgid "Hide Comments"
+msgstr ""
+
+#: inc/customizer/core.php:2957
+msgid "Hide Categories on Top"
+msgstr ""
+
+#: inc/customizer/core.php:2963
+msgid "Hide Post Entry Footer"
+msgstr ""
+
+#: inc/customizer/core.php:2969
+msgid "Hide Link Icon"
+msgstr ""
+
+#: inc/customizer/core.php:2991
+msgid "Enable Excerpt"
+msgstr ""
+
+#: inc/customizer/core.php:2997 inc/customizer/core.php:3008
+msgid "Enable Drop Cap"
+msgstr ""
+
+#: inc/customizer/core.php:3002
+msgid "Enable Related Posts on Home Page/Front Page"
+msgstr ""
+
+#: inc/customizer/core.php:3014
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/core.php:3020
+msgid "Enable Full-Page Header Media"
+msgstr ""
+
+#: inc/customizer/core.php:3025
+msgid "Enable Overlay & Text"
+msgstr ""
+
+#: inc/customizer/core.php:3030
+msgid "Enable Featured Items"
+msgstr ""
+
+#: inc/customizer/core.php:3035
+msgid "Enable Featured Slider"
+msgstr ""
+
+#: inc/customizer/core.php:3058
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer/core.php:3064
+msgid "Page Header Background Image"
+msgstr ""
+
+#: inc/customizer/core.php:3070
+msgid "Upload Image for First Feature Item"
+msgstr ""
+
+#: inc/customizer/core.php:3076
+msgid "Upload Image for Second Feature Item"
+msgstr ""
+
+#: inc/customizer/core.php:3082
+msgid "Upload Image for Third Feature Item"
+msgstr ""
+
+#: inc/customizer/core.php:3105
+msgid "Site Info Height"
+msgstr ""
+
+#: inc/customizer/core.php:3111
+msgid "Header Media Height"
+msgstr ""
+
+#: inc/customizer/core.php:3117
+msgid "Header Media Width"
+msgstr ""
+
+#: inc/customizer/core.php:3137
+msgid "Desktop Content Container Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3143
+msgid "Desktop Content Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3150
+msgid "Desktop Sidebar Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3157
+msgid "Laptop Content Container Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3164
+msgid "Laptop Content Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3171
+msgid "Laptop Sidebar Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3179
+msgid "Large Tablet Content Container Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3186
+msgid "Large Tablet Content width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3193
+msgid "Large Tablet Sidebar Width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3201
+msgid "tablet-content-container-width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3208
+msgid "tablet-content-width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3215
+msgid "tablet-sidebar-width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3222
+msgid "phone-content-container-width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3229
+msgid "phone-content-width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3236
+msgid "phone-sidebar-width(%)"
+msgstr ""
+
+#: inc/customizer/core.php:3259
+msgid "Page Alignment"
+msgstr ""
+
+#: inc/customizer/core.php:3265
+msgid "Sidebar Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/core.php:3270
+msgid "Footer Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/core.php:3276
+msgid "Page Title Align"
+msgstr ""
+
+#: inc/customizer/core.php:3282
+msgid "Single Header Align"
+msgstr ""
+
+#: inc/customizer/core.php:3290
+msgid "Post Header Align"
+msgstr ""
+
+#: inc/customizer/core.php:3309
+msgid "Page Content Align"
+msgstr ""
+
+#: inc/customizer/core.php:3314
+msgid "Single Content Align"
+msgstr ""
+
+#: inc/customizer/core.php:3321
+msgid "Post Content Align"
+msgstr ""
+
+#: inc/customizer/core.php:3342 inc/widgets/slides-overlays.php:535
+msgid "Select a Page for Slide1"
+msgstr ""
+
+#: inc/customizer/core.php:3347 inc/widgets/slides-overlays.php:558
+msgid "Select a Page for Slide2"
+msgstr ""
+
+#: inc/customizer/core.php:3354 inc/widgets/slides-overlays.php:582
+msgid "Select a Page for Slide3"
+msgstr ""
+
+#: inc/customizer/core.php:3360 inc/widgets/slides-overlays.php:605
+msgid "Select a Page for Slide4"
+msgstr ""
+
+#: inc/customizer/core.php:3373
+msgid "List Post Layout"
+msgstr ""
+
+#: inc/customizer/core.php:3374
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/core.php:3374
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer/core.php:3394
+msgid "Full-Width"
+msgstr ""
+
+#: inc/customizer/core.php:3395
+msgid "Box"
+msgstr ""
+
+#: inc/customizer/core.php:3400
+msgid "Header Media Position"
+msgstr ""
+
+#: inc/customizer/core.php:3403
+msgid "Top of header"
+msgstr ""
+
+#: inc/customizer/core.php:3404
+msgid "Bottom of header"
+msgstr ""
+
+#: inc/customizer/core.php:3410
+msgid "Overlay Style"
+msgstr ""
+
+#: inc/customizer/core.php:3413 inc/customizer/core.php:3557
+#: inc/customizer/core.php:3576 inc/customizer/core.php:3684
+#: inc/customizer/settings/colors.php:276
+#: inc/customizer/settings/colors.php:422
+#: inc/customizer/settings/colors.php:504
+#: inc/customizer/settings/colors.php:689
+#: inc/customizer/settings/layout.php:158 inc/meta-boxes.php:382
+#: inc/page-builder.php:54 inc/widgets/author-box.php:234
+#: inc/widgets/counter.php:151 inc/widgets/icon-box.php:40
+#: inc/widgets/image-box.php:31 inc/widgets/image-overlay.php:246
+#: inc/widgets/post-grid.php:223 inc/widgets/slides-overlays.php:459
+#: inc/widgets/slides-overlays.php:539 inc/widgets/slides-overlays.php:562
+#: inc/widgets/slides-overlays.php:586 inc/widgets/slides-overlays.php:609
+#: inc/widgets/staff.php:231 inc/widgets/testimonials.php:245
+msgid "None"
+msgstr ""
+
+#: inc/customizer/core.php:3414
+msgid "Double Border"
+msgstr ""
+
+#: inc/customizer/core.php:3415
+msgid "Border Shadow"
+msgstr ""
+
+#: inc/customizer/core.php:3421
+msgid "Overlay Height"
+msgstr ""
+
+#: inc/customizer/core.php:3424 inc/widgets/image-overlay.php:253
+#: inc/widgets/slides-overlays.php:461
+msgid "100%"
+msgstr ""
+
+#: inc/customizer/core.php:3425 inc/widgets/image-overlay.php:253
+#: inc/widgets/slides-overlays.php:461
+msgid "200px"
+msgstr ""
+
+#: inc/customizer/core.php:3426 inc/widgets/image-overlay.php:254
+#: inc/widgets/slides-overlays.php:462
+msgid "225px"
+msgstr ""
+
+#: inc/customizer/core.php:3427 inc/widgets/image-overlay.php:254
+#: inc/widgets/slides-overlays.php:462
+msgid "250px"
+msgstr ""
+
+#: inc/customizer/core.php:3428 inc/widgets/image-overlay.php:254
+#: inc/widgets/slides-overlays.php:462
+msgid "300px"
+msgstr ""
+
+#: inc/customizer/core.php:3434
+msgid "Show Featured Item On"
+msgstr ""
+
+#: inc/customizer/core.php:3437 inc/customizer/core.php:3448
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer/core.php:3438 inc/customizer/core.php:3449
+msgid "Blog Page"
+msgstr ""
+
+#: inc/customizer/core.php:3439 inc/customizer/core.php:3450
+msgid "Both"
+msgstr ""
+
+#: inc/customizer/core.php:3445
+msgid "Show Slider On"
+msgstr ""
+
+#: inc/customizer/core.php:3456
+msgid "Slider Type"
+msgstr ""
+
+#: inc/customizer/core.php:3459 inc/customizer/settings/layout.php:161
+#: inc/widgets/slides-overlays.php:465 inc/widgets/testimonials.php:243
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/core.php:3460
+msgid "Carousel"
+msgstr ""
+
+#: inc/customizer/core.php:3468
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer/core.php:3471
+msgid "White Shadow"
+msgstr ""
+
+#: inc/customizer/core.php:3472
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/core.php:3478
+msgid "Number of Column"
+msgstr ""
+
+#: inc/customizer/core.php:3481 inc/customizer/core.php:3600
+msgid "One"
+msgstr ""
+
+#: inc/customizer/core.php:3482 inc/customizer/core.php:3601
+#: inc/customizer/core.php:3650 inc/customizer/core.php:3663
+msgid "Two"
+msgstr ""
+
+#: inc/customizer/core.php:3483 inc/customizer/core.php:3602
+#: inc/customizer/core.php:3651 inc/customizer/core.php:3664
+msgid "Three"
+msgstr ""
+
+#: inc/customizer/core.php:3491 inc/customizer/core.php:3506
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/customizer/core.php:3494 inc/customizer/core.php:3509
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/core.php:3495 inc/customizer/core.php:3510
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/core.php:3496
+msgid "Medium Extra"
+msgstr ""
+
+#: inc/customizer/core.php:3498 inc/customizer/core.php:3511
+msgid "Medium Large"
+msgstr ""
+
+#: inc/customizer/core.php:3499 inc/customizer/core.php:3512
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/core.php:3500 inc/customizer/core.php:3513
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/core.php:3519
+msgid "Order By"
+msgstr ""
+
+#: inc/customizer/core.php:3522 inc/widgets/client.php:170
+#: inc/widgets/contact-us.php:39 inc/widgets/portfolios.php:154
+#: inc/widgets/post-grid.php:221 inc/widgets/staff.php:236
+#: inc/widgets/testimonials.php:251
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/core.php:3523 inc/widgets/client.php:170
+#: inc/widgets/portfolios.php:154 inc/widgets/post-grid.php:221
+#: inc/widgets/staff.php:236 inc/widgets/testimonials.php:251
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/core.php:3529
+msgid "Order"
+msgstr ""
+
+#: inc/customizer/core.php:3532 inc/widgets/client.php:168
+#: inc/widgets/portfolios.php:152 inc/widgets/post-grid.php:220
+#: inc/widgets/staff.php:234 inc/widgets/testimonials.php:249
+msgid "ASC"
+msgstr ""
+
+#: inc/customizer/core.php:3533 inc/widgets/client.php:168
+#: inc/widgets/portfolios.php:152 inc/widgets/post-grid.php:220
+#: inc/widgets/staff.php:234 inc/widgets/testimonials.php:249
+msgid "DESC"
+msgstr ""
+
+#: inc/customizer/core.php:3539
+msgid "Site Header Align"
+msgstr ""
+
+#: inc/customizer/core.php:3542
+msgid "Menu Right - Site-Branding Left"
+msgstr ""
+
+#: inc/customizer/core.php:3543
+msgid "Menu Left - Site-Branding Right"
+msgstr ""
+
+#: inc/customizer/core.php:3544
+msgid "Both Center"
+msgstr ""
+
+#: inc/customizer/core.php:3545
+msgid "Both left"
+msgstr ""
+
+#: inc/customizer/core.php:3551
+msgid "Site Title Type"
+msgstr ""
+
+#: inc/customizer/core.php:3555
+msgid "Title Text"
+msgstr ""
+
+#: inc/customizer/core.php:3556
+msgid "Logo(Image)"
+msgstr ""
+
+#: inc/customizer/core.php:3566
+msgid "Site Background Pattern"
+msgstr ""
+
+#: inc/customizer/core.php:3570
+msgid "Star Night"
+msgstr ""
+
+#: inc/customizer/core.php:3571
+msgid "Wood"
+msgstr ""
+
+#: inc/customizer/core.php:3573
+msgid "Board"
+msgstr ""
+
+#: inc/customizer/core.php:3574
+msgid "Marble"
+msgstr ""
+
+#: inc/customizer/core.php:3583
+msgid "Site Background Type"
+msgstr ""
+
+#: inc/customizer/core.php:3588 inc/customizer/settings/layout.php:159
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/core.php:3589
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer/core.php:3596
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: inc/customizer/core.php:3603 inc/customizer/core.php:3652
+#: inc/customizer/core.php:3665
+msgid "Four"
+msgstr ""
+
+#: inc/customizer/core.php:3609
+msgid "Scroll-up Style"
+msgstr ""
+
+#: inc/customizer/core.php:3613
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer/core.php:3614
+msgid "Sqaure"
+msgstr ""
+
+#: inc/customizer/core.php:3621
+msgid "Scroll-up Icon"
+msgstr ""
+
+#: inc/customizer/core.php:3625
+msgid "Angle Double"
+msgstr ""
+
+#: inc/customizer/core.php:3626
+msgid "Angle Up"
+msgstr ""
+
+#: inc/customizer/core.php:3627
+msgid "Chevron Up"
+msgstr ""
+
+#: inc/customizer/core.php:3634
+msgid "Social Item Target"
+msgstr ""
+
+#: inc/customizer/core.php:3638
+msgid "Same Window"
+msgstr ""
+
+#: inc/customizer/core.php:3639
+msgid "New Window"
+msgstr ""
+
+#: inc/customizer/core.php:3646
+msgid "Number of Contact Item"
+msgstr ""
+
+#: inc/customizer/core.php:3653 inc/customizer/core.php:3666
+msgid "Five"
+msgstr ""
+
+#: inc/customizer/core.php:3659
+msgid "Number of Social Icon"
+msgstr ""
+
+#: inc/customizer/core.php:3667
+msgid "Six"
+msgstr ""
+
+#: inc/customizer/core.php:3668
+msgid "Seven"
+msgstr ""
+
+#: inc/customizer/core.php:3669
+msgid "Eight"
+msgstr ""
+
+#: inc/customizer/core.php:3675
+msgid "Make Transparent"
+msgstr ""
+
+#: inc/customizer/core.php:3680
+msgid "All Except Border"
+msgstr ""
+
+#: inc/customizer/core.php:3681
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/core.php:3683
+msgid "All Except Main Nav"
+msgstr ""
+
+#: inc/customizer/sanitize.php:202
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/sanitize.php:203
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:58 inc/customizer/settings/colors.php:122
+#: inc/customizer/settings/colors.php:189
+#: inc/customizer/settings/colors.php:335
+#: inc/customizer/settings/colors.php:602
+#: inc/customizer/settings/colors.php:740
+msgid "Opacity:"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:101
+#: inc/customizer/settings/colors.php:581
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:168
+msgid "Top Border Color"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:232
+msgid "Top Border Width"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:268
+msgid "Top Border Style"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:271
+#: inc/customizer/settings/colors.php:417
+#: inc/customizer/settings/colors.php:499
+#: inc/customizer/settings/colors.php:684
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:272
+#: inc/customizer/settings/colors.php:418
+#: inc/customizer/settings/colors.php:500
+#: inc/customizer/settings/colors.php:685
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:273
+#: inc/customizer/settings/colors.php:419
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:274
+#: inc/customizer/settings/colors.php:420
+#: inc/customizer/settings/colors.php:502
+#: inc/customizer/settings/colors.php:687
+msgid "Double"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:275
+#: inc/customizer/settings/colors.php:421
+#: inc/customizer/settings/colors.php:503
+#: inc/customizer/settings/colors.php:688
+msgid "Groove"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:378
+#: inc/customizer/settings/colors.php:460
+#: inc/customizer/settings/colors.php:645
+msgid "Border Width"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:414
+#: inc/customizer/settings/colors.php:496
+#: inc/customizer/settings/colors.php:681
+msgid "Border Style"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:501
+#: inc/customizer/settings/colors.php:686
+msgid "Doted"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:542
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:719
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: inc/customizer/settings/colors.php:770
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/settings/font.php:27
+msgid "Site Body Font Family"
+msgstr ""
+
+#: inc/customizer/settings/font.php:53
+msgid "Select a Category for Slider"
+msgstr ""
+
+#: inc/customizer/settings/input.php:79
+msgid "user"
+msgstr ""
+
+#: inc/customizer/settings/input.php:81
+msgid "mobile"
+msgstr ""
+
+#: inc/customizer/settings/input.php:82
+msgid "phone"
+msgstr ""
+
+#: inc/customizer/settings/input.php:83
+msgid "phone-square"
+msgstr ""
+
+#: inc/customizer/settings/input.php:84
+msgid "plane"
+msgstr ""
+
+#: inc/customizer/settings/input.php:85
+msgid "plus-circle"
+msgstr ""
+
+#: inc/customizer/settings/input.php:86
+msgid "plus-square"
+msgstr ""
+
+#: inc/customizer/settings/input.php:87
+msgid "eye"
+msgstr ""
+
+#: inc/customizer/settings/input.php:88
+msgid "eyedropper"
+msgstr ""
+
+#: inc/customizer/settings/input.php:89
+msgid "fax"
+msgstr ""
+
+#: inc/customizer/settings/input.php:90
+msgid "feed"
+msgstr ""
+
+#: inc/customizer/settings/input.php:91
+msgid "female"
+msgstr ""
+
+#: inc/customizer/settings/input.php:92
+msgid "gift"
+msgstr ""
+
+#: inc/customizer/settings/input.php:93
+msgid "home"
+msgstr ""
+
+#: inc/customizer/settings/input.php:94
+msgid "globe"
+msgstr ""
+
+#: inc/customizer/settings/input.php:95
+msgid "minus-circle"
+msgstr ""
+
+#: inc/customizer/settings/input.php:96
+msgid "minus-square"
+msgstr ""
+
+#: inc/customizer/settings/input.php:97
+msgid "mortar-board"
+msgstr ""
+
+#: inc/customizer/settings/input.php:98
+msgid "info-circle"
+msgstr ""
+
+#: inc/customizer/settings/input.php:99
+msgid "mail-reply"
+msgstr ""
+
+#: inc/customizer/settings/input.php:100
+msgid "male"
+msgstr ""
+
+#: inc/customizer/settings/input.php:101
+msgid "leaf"
+msgstr ""
+
+#: inc/customizer/settings/input.php:102
+msgid "laptop"
+msgstr ""
+
+#: inc/customizer/settings/input.php:103
+msgid "key"
+msgstr ""
+
+#: inc/customizer/settings/input.php:104
+msgid "keyboard-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:105
+msgid "institution"
+msgstr ""
+
+#: inc/customizer/settings/input.php:106
+msgid "inbox"
+msgstr ""
+
+#: inc/customizer/settings/input.php:107
+msgid "image"
+msgstr ""
+
+#: inc/customizer/settings/input.php:108
+msgid "heart"
+msgstr ""
+
+#: inc/customizer/settings/input.php:109
+msgid "heart-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:110
+msgid "history"
+msgstr ""
+
+#: inc/customizer/settings/input.php:111
+msgid "headphones"
+msgstr ""
+
+#: inc/customizer/settings/input.php:112
+msgid "hashtag"
+msgstr ""
+
+#: inc/customizer/settings/input.php:113
+msgid "handshake-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:114
+msgid "group"
+msgstr ""
+
+#: inc/customizer/settings/input.php:115
+msgid "graduation-cap"
+msgstr ""
+
+#: inc/customizer/settings/input.php:116
+msgid "glass"
+msgstr ""
+
+#: inc/customizer/settings/input.php:117
+msgid "gear"
+msgstr ""
+
+#: inc/customizer/settings/input.php:118
+msgid "folder-open-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:119
+msgid "folder-open"
+msgstr ""
+
+#: inc/customizer/settings/input.php:120
+msgid "folder-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:121
+msgid "folder"
+msgstr ""
+
+#: inc/customizer/settings/input.php:122
+msgid "flag"
+msgstr ""
+
+#: inc/customizer/settings/input.php:123
+msgid "flash"
+msgstr ""
+
+#: inc/customizer/settings/input.php:124
+msgid "fire"
+msgstr ""
+
+#: inc/customizer/settings/input.php:125
+msgid "film"
+msgstr ""
+
+#: inc/customizer/settings/input.php:126
+msgid "file-video-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:127
+msgid "file-pdf-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:128
+msgid "arrow-circle-o-dow"
+msgstr ""
+
+#: inc/customizer/settings/input.php:129
+msgid "arrow-circle-o-left"
+msgstr ""
+
+#: inc/customizer/settings/input.php:130
+msgid "arrow-circle-o-right"
+msgstr ""
+
+#: inc/customizer/settings/input.php:131
+msgid "arrow-circle-down"
+msgstr ""
+
+#: inc/customizer/settings/input.php:132
+msgid "arrow-circle-left"
+msgstr ""
+
+#: inc/customizer/settings/input.php:133
+msgid "arrow-circle-right"
+msgstr ""
+
+#: inc/customizer/settings/input.php:134
+msgid "arrow-circle-up"
+msgstr ""
+
+#: inc/customizer/settings/input.php:135
+msgid "arrow-circle-o-up"
+msgstr ""
+
+#: inc/customizer/settings/input.php:136
+msgid "arrow-right"
+msgstr ""
+
+#: inc/customizer/settings/input.php:137
+msgid "arrow-up"
+msgstr ""
+
+#: inc/customizer/settings/input.php:138
+msgid "arrow"
+msgstr ""
+
+#: inc/customizer/settings/input.php:140 inc/customizer/settings/input.php:202
+#: inc/customizer/settings/input.php:211 inc/meta-boxes.php:258
+msgid "none"
+msgstr ""
+
+#: inc/customizer/settings/input.php:203
+msgid "behance"
+msgstr ""
+
+#: inc/customizer/settings/input.php:203
+msgid "codepen"
+msgstr ""
+
+#: inc/customizer/settings/input.php:203
+msgid "deviantart"
+msgstr ""
+
+#: inc/customizer/settings/input.php:203
+msgid "digg"
+msgstr ""
+
+#: inc/customizer/settings/input.php:204
+msgid "dribbble"
+msgstr ""
+
+#: inc/customizer/settings/input.php:204
+msgid "dropbox"
+msgstr ""
+
+#: inc/customizer/settings/input.php:204 inc/meta-boxes.php:260
+msgid "facebook"
+msgstr ""
+
+#: inc/customizer/settings/input.php:204
+msgid "flickr"
+msgstr ""
+
+#: inc/customizer/settings/input.php:205
+msgid "foursquare"
+msgstr ""
+
+#: inc/customizer/settings/input.php:205
+msgid "google-plus"
+msgstr ""
+
+#: inc/customizer/settings/input.php:205
+msgid "github"
+msgstr ""
+
+#: inc/customizer/settings/input.php:205 inc/meta-boxes.php:261
+msgid "instagram"
+msgstr ""
+
+#: inc/customizer/settings/input.php:206
+msgid "linkedin"
+msgstr ""
+
+#: inc/customizer/settings/input.php:206
+msgid "envelope-o"
+msgstr ""
+
+#: inc/customizer/settings/input.php:206
+msgid "medium"
+msgstr ""
+
+#: inc/customizer/settings/input.php:206 inc/meta-boxes.php:263
+msgid "pinterest-p"
+msgstr ""
+
+#: inc/customizer/settings/input.php:207
+msgid "get-pocket"
+msgstr ""
+
+#: inc/customizer/settings/input.php:207
+msgid "reddit-alien"
+msgstr ""
+
+#: inc/customizer/settings/input.php:207 inc/customizer/settings/input.php:208
+msgid "skype"
+msgstr ""
+
+#: inc/customizer/settings/input.php:208
+msgid "slideshare"
+msgstr ""
+
+#: inc/customizer/settings/input.php:208
+msgid "snapchat-ghost"
+msgstr ""
+
+#: inc/customizer/settings/input.php:208
+msgid "soundcloud"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209
+msgid "spotify"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209
+msgid "stumbleupon"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209
+msgid "tumblr"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209
+msgid "twitch"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209 inc/meta-boxes.php:264
+msgid "twitter"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209
+msgid "vimeo"
+msgstr ""
+
+#: inc/customizer/settings/input.php:209
+msgid "vine"
+msgstr ""
+
+#: inc/customizer/settings/input.php:210
+msgid "vk"
+msgstr ""
+
+#: inc/customizer/settings/input.php:210 inc/meta-boxes.php:265
+msgid "wordpress"
+msgstr ""
+
+#: inc/customizer/settings/input.php:210
+msgid "yelp"
+msgstr ""
+
+#: inc/customizer/settings/input.php:211
+msgid "youtube"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:43 inc/customizer/settings/layout.php:88
+#: inc/widgets/author-box.php:232 inc/widgets/button.php:34
+#: inc/widgets/custom-heading.php:175 inc/widgets/feature-item.php:34
+#: inc/widgets/icon-box.php:36 inc/widgets/image-box.php:29
+#: inc/widgets/post-grid.php:219 inc/widgets/social.php:152
+#: inc/widgets/testimonials.php:247
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:44 inc/customizer/settings/layout.php:89
+#: inc/widgets/author-box.php:232 inc/widgets/button.php:34
+#: inc/widgets/custom-heading.php:175 inc/widgets/icon-box.php:36
+#: inc/widgets/image-box.php:29 inc/widgets/post-grid.php:219
+#: inc/widgets/social.php:152 inc/widgets/testimonials.php:247
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:45 inc/customizer/settings/layout.php:90
+#: inc/widgets/button.php:34 inc/widgets/custom-heading.php:176
+#: inc/widgets/feature-item.php:34 inc/widgets/testimonials.php:247
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:91 inc/widgets/custom-heading.php:176
+msgid "Justify"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:129 inc/meta-boxes.php:78
+msgid "Rightbar"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:130 inc/meta-boxes.php:83
+msgid "Leftbar"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:131 inc/meta-boxes.php:89
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:154
+msgid "Header Media Type"
+msgstr ""
+
+#: inc/customizer/settings/layout.php:160
+msgid "Video"
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:7
+msgid "Site Title Input"
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:10
+msgid "Site Description Input"
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:32
+msgid ""
+"For more than one category use coma as separator.\n"
+"\tFor all categories leave it blank"
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:34
+msgid "For more than one category use coma as separator."
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:35
+msgid ""
+"Set your desire height & width first then publish & reload the customizer "
+"after then crop the image. Image users should remove video and video users "
+"should remove image"
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:37
+msgid ""
+"To create full-page header/hero you may need to increase height & width. "
+"Then go to full-page & sticky header section and check \"enable full-page "
+"header media\""
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:39
+msgid ""
+"Header media position must be selected \"Bottom of header\". Check from "
+"header media section. You may need to increase height & width of header "
+"media so go to header media section and increase desired height/width"
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:41
+msgid ""
+"To create full-page header/hero, header media position must be selected "
+"\"Bottom of header\" otherwise you can select \"Top of header\" or \"Bottom "
+"of header\"."
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:43
+msgid "You have to select one column before enable this setting."
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:62
+#: inc/customizer/settings/local/extra/extras.php:63
+#: inc/customizer/settings/local/extra/extras.php:65
+#: inc/customizer/settings/local/extra/extras.php:66
+#: inc/customizer/settings/local/extra/extras.php:67
+msgid "Please follow our documentation."
+msgstr ""
+
+#: inc/customizer/settings/local/extra/extras.php:62
+#: inc/customizer/settings/local/extra/extras.php:63
+#: inc/customizer/settings/local/extra/extras.php:65
+#: inc/customizer/settings/local/extra/extras.php:66
+#: inc/customizer/settings/local/extra/extras.php:67
+msgid "Visit"
+msgstr ""
+
+#: inc/extra-function.php:1184
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/extra-function.php:1187
+msgid "Older Comments"
+msgstr ""
+
+#: inc/extra-function.php:1190
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/extra-function.php:1350 inc/widgets/portfolios.php:98
+msgid "Read More"
+msgstr ""
+
+#: inc/extra-function.php:1410
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: inc/extra-function.php:1415
+msgid "Next"
+msgstr ""
+
+#: inc/extra-function.php:1416
+msgid "Next post:"
+msgstr ""
+
+#: inc/extra-function.php:1418
+msgid "Previous"
+msgstr ""
+
+#: inc/extra-function.php:1419
+msgid "Previous post:"
+msgstr ""
+
+#: inc/meta-boxes.php:46
+msgid "Select Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:46
+msgid "Post Socials"
+msgstr ""
+
+#: inc/meta-boxes.php:73
+msgid "Default"
+msgstr ""
+
+#: inc/meta-boxes.php:144
+msgid "Page Header Background Color"
+msgstr ""
+
+#: inc/meta-boxes.php:289
+msgid "Post Social Icon #1:"
+msgstr ""
+
+#: inc/meta-boxes.php:305
+msgid "Post Social Url #1:"
+msgstr ""
+
+#: inc/meta-boxes.php:311
+msgid "Post Social Icon #2:"
+msgstr ""
+
+#: inc/meta-boxes.php:327
+msgid "Post Social Url #2:"
+msgstr ""
+
+#: inc/meta-boxes.php:333
+msgid "Post Social Icon #3:"
+msgstr ""
+
+#: inc/meta-boxes.php:349
+msgid "Post Social Url #3:"
+msgstr ""
+
+#: inc/meta-boxes.php:355
+msgid "Post Social Icon #4:"
+msgstr ""
+
+#: inc/meta-boxes.php:371
+msgid "post Social Url #4:"
+msgstr ""
+
+#: inc/meta-boxes.php:378
+msgid "Select a Page for Author"
+msgstr ""
+
+#: inc/nl-admin.php:67
+msgid "Get Started with NextLevel"
+msgstr ""
+
+#: inc/nl-admin.php:82
+msgid "About"
+msgstr ""
+
+#: inc/nl-admin.php:105
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/nl-admin.php:142 inc/nl-admin.php:144
+msgid "Theme Demos"
+msgstr ""
+
+#: inc/nl-admin.php:143
+msgid "10 Demos are avaible right now."
+msgstr ""
+
+#: inc/nl-admin.php:148 inc/nl-admin.php:150
+msgid "Documentation"
+msgstr ""
+
+#: inc/nl-admin.php:149
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#: inc/nl-admin.php:154 inc/nl-admin.php:156
+msgid "Theme Support"
+msgstr ""
+
+#: inc/nl-admin.php:155
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: inc/nl-admin.php:176
+msgid "Back to Dashboard"
+msgstr ""
+
+#: inc/nl-admin.php:195
+msgid "This theme recommends following plugins."
+msgstr ""
+
+#: inc/nl-admin.php:198
+msgid "SiteOrigin page builder"
+msgstr ""
+
+#: inc/nl-admin.php:200
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/page-builder.php:33
+msgid "Million Shades Theme Widgets"
+msgstr ""
+
+#: inc/page-builder.php:48
+msgid "Widget Title Text Transform"
+msgstr ""
+
+#: inc/page-builder.php:55
+msgid "Capitalize"
+msgstr ""
+
+#: inc/page-builder.php:56
+msgid "Upper Case"
+msgstr ""
+
+#: inc/page-builder.php:57
+msgid "Lower Case"
+msgstr ""
+
+#: inc/template-tags.php:24 inc/template-tags.php:60
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:30 inc/template-tags.php:70
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:30 inc/template-tags.php:70
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "No Comment"
+msgstr ""
+
+#: inc/template-tags.php:84 inc/template-tags.php:90
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:92
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:99
+#, php-format
+msgid "No Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:106 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/widgets/author-box.php:15
+msgid "Author Box."
+msgstr ""
+
+#: inc/widgets/author-box.php:16
+msgid "MS Author Box "
+msgstr ""
+
+#: inc/widgets/author-box.php:234 inc/widgets/button.php:36
+#: inc/widgets/counter.php:151 inc/widgets/icon-box.php:38
+#: inc/widgets/image-box.php:31 inc/widgets/post-grid.php:223
+#: inc/widgets/staff.php:231 inc/widgets/testimonials.php:245
+msgid "Style1"
+msgstr ""
+
+#: inc/widgets/author-box.php:234 inc/widgets/button.php:36
+#: inc/widgets/counter.php:151 inc/widgets/icon-box.php:38
+#: inc/widgets/image-box.php:31 inc/widgets/post-grid.php:223
+#: inc/widgets/staff.php:231 inc/widgets/testimonials.php:245
+msgid "Style2"
+msgstr ""
+
+#: inc/widgets/author-box.php:234 inc/widgets/button.php:36
+#: inc/widgets/counter.php:151 inc/widgets/icon-box.php:39
+#: inc/widgets/image-box.php:31 inc/widgets/post-grid.php:223
+#: inc/widgets/staff.php:231 inc/widgets/testimonials.php:245
+msgid "Style3"
+msgstr ""
+
+#: inc/widgets/author-box.php:234 inc/widgets/counter.php:151
+#: inc/widgets/icon-box.php:39 inc/widgets/image-box.php:31
+#: inc/widgets/post-grid.php:223 inc/widgets/staff.php:231
+#: inc/widgets/testimonials.php:245
+msgid "Style4"
+msgstr ""
+
+#: inc/widgets/author-box.php:259 inc/widgets/image-box.php:48
+msgid "Author Image Upload"
+msgstr ""
+
+#: inc/widgets/author-box.php:264 inc/widgets/image-box.php:53
+#: inc/widgets/image-overlay.php:286 inc/widgets/image.php:99
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: inc/widgets/author-box.php:267 inc/widgets/image-box.php:57
+#: inc/widgets/image-overlay.php:290 inc/widgets/slides-overlays.php:527
+msgid "Image Height:"
+msgstr ""
+
+#: inc/widgets/author-box.php:274 inc/widgets/image-box.php:64
+msgid "Image Width:"
+msgstr ""
+
+#: inc/widgets/author-box.php:283 inc/widgets/social.php:194
+msgid "social Icon :"
+msgstr ""
+
+#: inc/widgets/author-box.php:299 inc/widgets/social.php:210
+msgid "social url :"
+msgstr ""
+
+#: inc/widgets/author-box.php:307 inc/widgets/counter.php:201
+#: inc/widgets/feature-item.php:93 inc/widgets/icon-box.php:60
+#: inc/widgets/social.php:242
+msgid "Icon Background Color:"
+msgstr ""
+
+#: inc/widgets/author-box.php:315
+msgid "Author Name:"
+msgstr ""
+
+#: inc/widgets/author-box.php:323
+msgid "Author Position:"
+msgstr ""
+
+#: inc/widgets/author-box.php:331
+msgid "Author Text:"
+msgstr ""
+
+#: inc/widgets/author-box.php:339 inc/widgets/image-box.php:101
+#: inc/widgets/post-grid.php:322 inc/widgets/testimonials.php:394
+msgid "Widget Align:"
+msgstr ""
+
+#: inc/widgets/author-box.php:355 inc/widgets/button.php:114
+#: inc/widgets/counter.php:209 inc/widgets/icon-box.php:117
+#: inc/widgets/image-box.php:117 inc/widgets/post-grid.php:338
+#: inc/widgets/staff.php:403 inc/widgets/testimonials.php:410
+msgid "Widget Style:"
+msgstr ""
+
+#: inc/widgets/button.php:13
+msgid "Button"
+msgstr ""
+
+#: inc/widgets/button.php:14
+msgid "MS Button"
+msgstr ""
+
+#: inc/widgets/button.php:36
+msgid "Transparent bg - hover black"
+msgstr ""
+
+#: inc/widgets/button.php:36
+msgid "Transparent bg - hover white"
+msgstr ""
+
+#: inc/widgets/button.php:38 inc/widgets/image-overlay.php:248
+#: inc/widgets/slides-overlays.php:466
+msgid "0"
+msgstr ""
+
+#: inc/widgets/button.php:38
+msgid "3px"
+msgstr ""
+
+#: inc/widgets/button.php:38
+msgid "5px"
+msgstr ""
+
+#: inc/widgets/button.php:38
+msgid "10px"
+msgstr ""
+
+#: inc/widgets/button.php:38
+msgid "25px"
+msgstr ""
+
+#: inc/widgets/button.php:43 inc/widgets/icon-box.php:84
+#: inc/widgets/image-box.php:87 inc/widgets/slides-overlays.php:643
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/button.php:51 inc/widgets/icon-box.php:92
+#: inc/widgets/image-box.php:94 inc/widgets/image-overlay.php:364
+#: inc/widgets/slides-overlays.php:651
+msgid "Button Url:"
+msgstr ""
+
+#: inc/widgets/button.php:58 inc/widgets/image-overlay.php:372
+#: inc/widgets/slides-overlays.php:659
+msgid "Button Background Color:"
+msgstr ""
+
+#: inc/widgets/button.php:66 inc/widgets/custom-heading.php:234
+#: inc/widgets/icon-box.php:101 inc/widgets/social.php:279
+msgid "Align:"
+msgstr ""
+
+#: inc/widgets/button.php:82
+msgid "Button Icon :"
+msgstr ""
+
+#: inc/widgets/button.php:98
+msgid "Border Radius:"
+msgstr ""
+
+#: inc/widgets/client.php:17
+msgid "Client Carousel."
+msgstr ""
+
+#: inc/widgets/client.php:18
+msgid "MS Client"
+msgstr ""
+
+#: inc/widgets/client.php:172 inc/widgets/client.php:173
+#: inc/widgets/slides-overlays.php:471 inc/widgets/slides-overlays.php:472
+#: inc/widgets/staff.php:238 inc/widgets/staff.php:239
+#: inc/widgets/testimonials.php:253 inc/widgets/testimonials.php:254
+msgid "True"
+msgstr ""
+
+#: inc/widgets/client.php:172 inc/widgets/client.php:173
+#: inc/widgets/slides-overlays.php:471 inc/widgets/slides-overlays.php:472
+#: inc/widgets/staff.php:238 inc/widgets/staff.php:239
+#: inc/widgets/testimonials.php:253 inc/widgets/testimonials.php:254
+msgid "False"
+msgstr ""
+
+#: inc/widgets/client.php:175 inc/widgets/staff.php:241
+#: inc/widgets/testimonials.php:256
+msgid "5000"
+msgstr ""
+
+#: inc/widgets/client.php:175 inc/widgets/staff.php:241
+#: inc/widgets/testimonials.php:256
+msgid "4000"
+msgstr ""
+
+#: inc/widgets/client.php:176 inc/widgets/staff.php:242
+#: inc/widgets/testimonials.php:257
+msgid "3500"
+msgstr ""
+
+#: inc/widgets/client.php:176 inc/widgets/staff.php:242
+#: inc/widgets/testimonials.php:257
+msgid "3000"
+msgstr ""
+
+#: inc/widgets/client.php:176 inc/widgets/staff.php:242
+#: inc/widgets/testimonials.php:257
+msgid "2000"
+msgstr ""
+
+#: inc/widgets/client.php:178 inc/widgets/portfolios.php:156
+#: inc/widgets/staff.php:245
+msgid "5"
+msgstr ""
+
+#: inc/widgets/client.php:178 inc/widgets/portfolios.php:156
+#: inc/widgets/post-grid.php:222 inc/widgets/staff.php:244
+msgid "4"
+msgstr ""
+
+#: inc/widgets/client.php:178 inc/widgets/portfolios.php:156
+#: inc/widgets/post-grid.php:222 inc/widgets/staff.php:244
+msgid "3"
+msgstr ""
+
+#: inc/widgets/client.php:178 inc/widgets/staff.php:245
+msgid "2"
+msgstr ""
+
+#: inc/widgets/client.php:200 inc/widgets/staff.php:273
+#: inc/widgets/testimonials.php:280
+msgid "No of Post:"
+msgstr ""
+
+#: inc/widgets/client.php:207 inc/widgets/portfolios.php:191
+#: inc/widgets/post-grid.php:264 inc/widgets/staff.php:280
+#: inc/widgets/testimonials.php:303
+msgid "Enter categories separated with comma or leave empty for all.:"
+msgstr ""
+
+#: inc/widgets/client.php:215 inc/widgets/portfolios.php:201
+#: inc/widgets/post-grid.php:273 inc/widgets/staff.php:288
+#: inc/widgets/testimonials.php:311
+msgid "Order:"
+msgstr ""
+
+#: inc/widgets/client.php:232 inc/widgets/portfolios.php:217
+#: inc/widgets/post-grid.php:290 inc/widgets/staff.php:305
+#: inc/widgets/testimonials.php:328
+msgid "Order By:"
+msgstr ""
+
+#: inc/widgets/client.php:248 inc/widgets/staff.php:321
+#: inc/widgets/testimonials.php:345
+msgid "Slideshow Speed:"
+msgstr ""
+
+#: inc/widgets/client.php:265
+msgid "Maximum Clients Per Slide:"
+msgstr ""
+
+#: inc/widgets/client.php:284 inc/widgets/slides-overlays.php:729
+#: inc/widgets/staff.php:371 inc/widgets/testimonials.php:362
+msgid "Control Navigation:"
+msgstr ""
+
+#: inc/widgets/client.php:300 inc/widgets/slides-overlays.php:745
+#: inc/widgets/staff.php:387 inc/widgets/testimonials.php:378
+msgid "Direction Navigation:"
+msgstr ""
+
+#: inc/widgets/client.php:317
+msgid "Client Gap:"
+msgstr ""
+
+#: inc/widgets/client.php:325
+msgid "Client Width:"
+msgstr ""
+
+#: inc/widgets/contact-us.php:14
+msgid "Get your contacts."
+msgstr ""
+
+#: inc/widgets/contact-us.php:15
+msgid "MS Contacts"
+msgstr ""
+
+#: inc/widgets/contact-us.php:46
+msgid "Enter Address"
+msgstr ""
+
+#: inc/widgets/contact-us.php:50
+msgid "Enter phone number"
+msgstr ""
+
+#: inc/widgets/contact-us.php:54
+msgid "Enter phone number2"
+msgstr ""
+
+#: inc/widgets/contact-us.php:57
+msgid "Enter email address"
+msgstr ""
+
+#: inc/widgets/contact-us.php:62 inc/widgets/latest-post-list.php:69
+msgid "Text Font Size:"
+msgstr ""
+
+#: inc/widgets/contact-us.php:70
+msgid "Text Font Weight:"
+msgstr ""
+
+#: inc/widgets/counter.php:16
+msgid "Counter."
+msgstr ""
+
+#: inc/widgets/counter.php:17
+msgid "MS Counter"
+msgstr ""
+
+#: inc/widgets/counter.php:164
+msgid "Counter Icon :"
+msgstr ""
+
+#: inc/widgets/counter.php:180
+msgid "Start Val:"
+msgstr ""
+
+#: inc/widgets/counter.php:187
+msgid "End Val:"
+msgstr ""
+
+#: inc/widgets/counter.php:195 inc/widgets/feature-item.php:70
+#: inc/widgets/icon-box.php:77 inc/widgets/image-box.php:79
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:17
+msgid "MS: Custom Heading or text"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:18
+msgid "MS Heading or text"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:178 inc/widgets/image-overlay.php:242
+#: inc/widgets/slides-overlays.php:454
+msgid "H3"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:178 inc/widgets/image-overlay.php:242
+#: inc/widgets/slides-overlays.php:454
+msgid "H1"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:179 inc/widgets/image-overlay.php:243
+#: inc/widgets/slides-overlays.php:455
+msgid "H2"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:179 inc/widgets/image-overlay.php:243
+#: inc/widgets/slides-overlays.php:455
+msgid "H4"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:179 inc/widgets/image-overlay.php:243
+#: inc/widgets/slides-overlays.php:455
+msgid "H5"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:180 inc/widgets/image-overlay.php:244
+#: inc/widgets/slides-overlays.php:456
+msgid "span"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:183
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:183
+msgid "Show"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:204
+msgid "Heading:"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:211
+msgid "Tag:"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:226
+msgid "Text Color:"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:249
+msgid "Separator Show/Hide:"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:264
+msgid "Separator Width(%):"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:272
+msgid "Separator Height(px):"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:280
+msgid "Separator Color:"
+msgstr ""
+
+#: inc/widgets/custom-heading.php:287
+msgid "Separator Margin Top(px):"
+msgstr ""
+
+#: inc/widgets/feature-item.php:16
+msgid "Featured Item."
+msgstr ""
+
+#: inc/widgets/feature-item.php:17
+msgid "MS Featured Item"
+msgstr ""
+
+#: inc/widgets/feature-item.php:47
+msgid "Icon Align:"
+msgstr ""
+
+#: inc/widgets/feature-item.php:63 inc/widgets/icon-box.php:68
+#: inc/widgets/image-box.php:71 inc/widgets/image-overlay.php:300
+#: inc/widgets/latest-post-list.php:38
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/feature-item.php:78
+msgid "Featured Icon :"
+msgstr ""
+
+#: inc/widgets/icon-box.php:15
+msgid "Icon Box."
+msgstr ""
+
+#: inc/widgets/icon-box.php:16
+msgid "MS Icon Box"
+msgstr ""
+
+#: inc/widgets/icon-box.php:43
+msgid "Icon :"
+msgstr ""
+
+#: inc/widgets/image-box.php:16
+msgid "Image Box."
+msgstr ""
+
+#: inc/widgets/image-box.php:17
+msgid "MS Image Box"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:16
+msgid "Background Image Overlay."
+msgstr ""
+
+#: inc/widgets/image-overlay.php:17
+msgid "MS Image Overlay"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:246 inc/widgets/slides-overlays.php:458
+msgid "Border"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:246 inc/widgets/slides-overlays.php:458
+msgid "Border-shadow"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:248 inc/widgets/slides-overlays.php:466
+msgid "0.1"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:249 inc/widgets/slides-overlays.php:467
+msgid "0.2"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:249 inc/widgets/slides-overlays.php:467
+msgid "0.3"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:249 inc/widgets/slides-overlays.php:467
+msgid "0.4"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:250 inc/widgets/slides-overlays.php:468
+msgid "0.5"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:250 inc/widgets/slides-overlays.php:468
+msgid "0.6"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:250 inc/widgets/slides-overlays.php:468
+msgid "0.7"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:251 inc/widgets/slides-overlays.php:469
+msgid "0.8"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:251 inc/widgets/slides-overlays.php:469
+msgid "0.9"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:251 inc/widgets/slides-overlays.php:469
+msgid "1"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:281 inc/widgets/image.php:94
+msgid "Background Image Upload"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:307 inc/widgets/slides-overlays.php:511
+msgid "Title Tag:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:324
+msgid "Overlay Subtitle:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:332 inc/widgets/slides-overlays.php:627
+msgid "Sub Title Tag:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:348
+msgid "Overlay Text Color:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:356
+msgid "Button1 Text:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:381 inc/widgets/slides-overlays.php:668
+msgid "Overlay Height:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:397 inc/widgets/slides-overlays.php:684
+msgid "Overlay Background Color:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:405 inc/widgets/slides-overlays.php:694
+msgid "Overlay Background Opacity:"
+msgstr ""
+
+#: inc/widgets/image-overlay.php:421
+msgid "Border Style ( If Overlay height is other than 100%.):"
+msgstr ""
+
+#: inc/widgets/image.php:16
+msgid "Image."
+msgstr ""
+
+#: inc/widgets/image.php:17
+msgid "MS Image"
+msgstr ""
+
+#: inc/widgets/image.php:43
+msgid "no-repeat"
+msgstr ""
+
+#: inc/widgets/image.php:43
+msgid "repeat"
+msgstr ""
+
+#: inc/widgets/image.php:44
+msgid "auto"
+msgstr ""
+
+#: inc/widgets/image.php:44
+msgid "cover"
+msgstr ""
+
+#: inc/widgets/image.php:44
+msgid "contain"
+msgstr ""
+
+#: inc/widgets/image.php:52
+msgid "Container Height:"
+msgstr ""
+
+#: inc/widgets/image.php:59
+msgid "Background Repeat:"
+msgstr ""
+
+#: inc/widgets/image.php:74
+msgid "Background Size:"
+msgstr ""
+
+#: inc/widgets/image.php:91
+msgid "Parallax Scroll?"
+msgstr ""
+
+#: inc/widgets/latest-post-list.php:16
+msgid "Latest Post List."
+msgstr ""
+
+#: inc/widgets/latest-post-list.php:17
+msgid "MS Latest Post List"
+msgstr ""
+
+#: inc/widgets/latest-post-list.php:44 inc/widgets/portfolios.php:169
+#: inc/widgets/post-grid.php:241
+msgid "Maximum posts to show:"
+msgstr ""
+
+#: inc/widgets/latest-post-list.php:53
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/latest-post-list.php:77
+msgid "Link Font Size:"
+msgstr ""
+
+#: inc/widgets/portfolios.php:15
+msgid "Portfolios Grid."
+msgstr ""
+
+#: inc/widgets/portfolios.php:16
+msgid "MS Portfolios"
+msgstr ""
+
+#: inc/widgets/portfolios.php:150
+msgid "Hover1"
+msgstr ""
+
+#: inc/widgets/portfolios.php:150
+msgid "Hover2"
+msgstr ""
+
+#: inc/widgets/portfolios.php:150
+msgid "Hover3"
+msgstr ""
+
+#: inc/widgets/portfolios.php:175
+msgid "Number of Columns:"
+msgstr ""
+
+#: inc/widgets/portfolios.php:235
+msgid "Hover Style:"
+msgstr ""
+
+#: inc/widgets/post-grid.php:18
+msgid "Blog Post Grid."
+msgstr ""
+
+#: inc/widgets/post-grid.php:19
+msgid "MS Post Grid"
+msgstr ""
+
+#: inc/widgets/post-grid.php:248
+msgid "No of Column:"
+msgstr ""
+
+#: inc/widgets/post-grid.php:306
+msgid "Exclude:"
+msgstr ""
+
+#: inc/widgets/post-grid.php:314
+msgid "Read More Text:"
+msgstr ""
+
+#: inc/widgets/shortcode.php:17
+msgid "Shortcode for contact form7 etc."
+msgstr ""
+
+#: inc/widgets/shortcode.php:18
+msgid "MS Shortcode"
+msgstr ""
+
+#: inc/widgets/shortcode.php:84
+msgid "Shortcodes:"
+msgstr ""
+
+#: inc/widgets/shortcode.php:92
+msgid "Extra Class:"
+msgstr ""
+
+#: inc/widgets/shortcode.php:100
+msgid "id:"
+msgstr ""
+
+#: inc/widgets/slides-overlays.php:16
+msgid "Slides Overlay."
+msgstr ""
+
+#: inc/widgets/slides-overlays.php:17
+msgid "MS Slides Overlay"
+msgstr ""
+
+#: inc/widgets/slides-overlays.php:465 inc/widgets/testimonials.php:243
+msgid "Fade"
+msgstr ""
+
+#: inc/widgets/slides-overlays.php:711
+msgid "Overlay Border Style:"
+msgstr ""
+
+#: inc/widgets/slides-overlays.php:761
+msgid "Hide Overaly CTA?"
+msgstr ""
+
+#: inc/widgets/social.php:13
+msgid "Show Social Item Lists."
+msgstr ""
+
+#: inc/widgets/social.php:14
+msgid "MS Social Item Lists"
+msgstr ""
+
+#: inc/widgets/social.php:154
+msgid "Self"
+msgstr ""
+
+#: inc/widgets/social.php:154
+msgid "Blank"
+msgstr ""
+
+#: inc/widgets/social.php:187
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/social.php:217
+msgid "Target Window:"
+msgstr ""
+
+#: inc/widgets/social.php:233
+msgid "Icon Font Size:"
+msgstr ""
+
+#: inc/widgets/social.php:251
+msgid "Icon Height:"
+msgstr ""
+
+#: inc/widgets/social.php:259
+msgid "Icon Width:"
+msgstr ""
+
+#: inc/widgets/social.php:269
+msgid "Icon Border Radius:"
+msgstr ""
+
+#: inc/widgets/spacing.php:17
+msgid "Spacidng."
+msgstr ""
+
+#: inc/widgets/spacing.php:18
+msgid "MS Spacing"
+msgstr ""
+
+#: inc/widgets/spacing.php:30
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/spacing.php:30
+msgid "No"
+msgstr ""
+
+#: inc/widgets/spacing.php:40
+msgid "Height:"
+msgstr ""
+
+#: inc/widgets/spacing.php:48
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/spacing.php:56
+msgid "Hide on Mobile:"
+msgstr ""
+
+#: inc/widgets/staff.php:17
+msgid "Staff Carousel"
+msgstr ""
+
+#: inc/widgets/staff.php:18
+msgid "MS Staff Carousel"
+msgstr ""
+
+#: inc/widgets/staff.php:229
+msgid "position-inline"
+msgstr ""
+
+#: inc/widgets/staff.php:229
+msgid "position-block"
+msgstr ""
+
+#: inc/widgets/staff.php:338
+msgid "Maximum Staffs Per Slide:"
+msgstr ""
+
+#: inc/widgets/staff.php:356
+msgid "Staff Width:"
+msgstr ""
+
+#: inc/widgets/staff.php:364
+msgid "Staff Gap:"
+msgstr ""
+
+#: inc/widgets/staff.php:419
+msgid "Border Style:"
+msgstr ""
+
+#: inc/widgets/testimonials.php:16
+msgid "Testimonial Slide."
+msgstr ""
+
+#: inc/widgets/testimonials.php:17
+msgid "MS Testimonial Slide"
+msgstr ""
+
+#: inc/widgets/testimonials.php:247
+msgid "Down"
+msgstr ""
+
+#: inc/widgets/testimonials.php:287
+msgid "Animation Type:"
+msgstr ""
+
+#: index.php:159
+msgid "&larr; Previous"
+msgstr ""
+
+#: index.php:160
+msgid "Next &rarr;"
+msgstr ""
+
+#: search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:18
+msgid "Search"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: single-portfolios.php:44 single-portfolios.php:81
+#: template-parts/content-single.php:41
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single-portfolios.php:50 single-portfolios.php:87
+#: template-parts/content-page.php:19 template-parts/content-single.php:47
+msgid "Pages:"
+msgstr ""
+
+#: single-post/related-posts.php:25
+msgid "YOU MAY ALSO LIKE"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, we couldn't find the term you're looking for. Please try again with "
+"some different keywords."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themenextlevel.com/million-shades/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Million Shades can help you to create a wide range of websites in no time at "
+"all. Blog sites with 1-3 columns. 800+ google fonts, different header "
+"options. Corporate homepages, agency websites,landing pages, startup landing "
+"pages, wedding, personal, one page, wide range of blog sites,and portfolios, "
+"Million Shades covers the all areas of website design. Million Shades is a "
+"creative, clean & modern WordPress theme. Though Million Shades is advanced "
+"level theme but its settings and options are easy to follow which make this "
+"theme attractive both for beginners and advanced users. Don't forget to "
+"visit our demo site:https://themenextlevel.com/million-shades/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kudrat E Khuda"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themenextlevel.com/"
+msgstr ""
